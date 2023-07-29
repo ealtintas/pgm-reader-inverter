@@ -1,3 +1,4 @@
+/************************************************************************/
 /* PGM-READER-INVERTER                                                  */
 /* ===================                                                  */
 /*                                                                      */
@@ -14,8 +15,8 @@
 /* it under the terms of the GNU General Public License as published by */
 /* the Free Software Foundation.                                        */
 /*                                                                      */
-/* By Ergin ALTINTAS - ergin@altintas.org.                               */
-/* http://www.ergin.altinas.org                                         */
+/* By Ergin ALTINTAS - ergin@altintas.org                               */
+/* https://ergin.altintas.org                                           */
 /************************************************************************/
 
 #include <stdio.h>
